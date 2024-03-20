@@ -8,3 +8,13 @@ D:\FileConverter\FileConverter\FileConverter\obj\Debug\FileConverter.csproj.Gene
 D:\FileConverter\FileConverter\FileConverter\obj\Debug\FileConverter.csproj.CoreCompileInputs.cache
 D:\FileConverter\FileConverter\FileConverter\obj\Debug\FileConverter.exe
 D:\FileConverter\FileConverter\FileConverter\obj\Debug\FileConverter.pdb
+C:\Users\Thu Rein Oo\Source\Repos\File-Converter\FileConverter\FileConverter\bin\Debug\FileConverter.exe.config
+C:\Users\Thu Rein Oo\Source\Repos\File-Converter\FileConverter\FileConverter\bin\Debug\FileConverter.exe
+C:\Users\Thu Rein Oo\Source\Repos\File-Converter\FileConverter\FileConverter\bin\Debug\FileConverter.pdb
+C:\Users\Thu Rein Oo\Source\Repos\File-Converter\FileConverter\FileConverter\obj\Debug\FileConverter.csproj.AssemblyReference.cache
+C:\Users\Thu Rein Oo\Source\Repos\File-Converter\FileConverter\FileConverter\obj\Debug\FileConverter.Form1.resources
+C:\Users\Thu Rein Oo\Source\Repos\File-Converter\FileConverter\FileConverter\obj\Debug\FileConverter.Properties.Resources.resources
+C:\Users\Thu Rein Oo\Source\Repos\File-Converter\FileConverter\FileConverter\obj\Debug\FileConverter.csproj.GenerateResource.cache
+C:\Users\Thu Rein Oo\Source\Repos\File-Converter\FileConverter\FileConverter\obj\Debug\FileConverter.csproj.CoreCompileInputs.cache
+C:\Users\Thu Rein Oo\Source\Repos\File-Converter\FileConverter\FileConverter\obj\Debug\FileConverter.exe
+C:\Users\Thu Rein Oo\Source\Repos\File-Converter\FileConverter\FileConverter\obj\Debug\FileConverter.pdb
