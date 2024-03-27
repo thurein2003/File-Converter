@@ -1,5 +1,3 @@
-# File-Converter
-
 # File Converter Dialogs
 
 ## File Selection Dialog
